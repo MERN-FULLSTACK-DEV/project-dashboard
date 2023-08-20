@@ -338,7 +338,7 @@ nav .top {
     border: 1px solid #32353D;
     border-radius: 10px;
     border-top-left-radius: 15px;
-    border-left: 10px solid blueviolet;
+    border-left: 12.5px solid rgb(83, 0, 160);
     width: 350px;
     height: 170px;
 }
